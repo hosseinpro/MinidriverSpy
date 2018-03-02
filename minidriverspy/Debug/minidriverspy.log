@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  minidriverspy.cpp
+c:\users\hossein\desktop\minidriverspy\minidriverspy\minidriverspy.cpp(19): warning C4129: 'W': unrecognized character escape sequence
+c:\users\hossein\desktop\minidriverspy\minidriverspy\minidriverspy.cpp(19): warning C4129: 'S': unrecognized character escape sequence
+c:\users\hossein\desktop\minidriverspy\minidriverspy\minidriverspy.cpp(19): warning C4129: 'm': unrecognized character escape sequence
+c:\users\hossein\desktop\minidriverspy\minidriverspy\minidriverspy.cpp(58): warning C4715: 'CardAcquireContext': not all control paths return a value
+     Creating library C:\Users\Hossein\Desktop\minidriverspy\Debug\msclmd.lib and object C:\Users\Hossein\Desktop\minidriverspy\Debug\msclmd.exp
+  minidriverspy.vcxproj -> C:\Users\Hossein\Desktop\minidriverspy\Debug\msclmd.dll
+  minidriverspy.vcxproj -> C:\Users\Hossein\Desktop\minidriverspy\Debug\msclmd.pdb (Full PDB)

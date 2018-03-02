@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  minidriverspy.cpp
+     Creating library C:\Users\Hossein\Desktop\minidriverspy\x64\Release\msclmd.lib and object C:\Users\Hossein\Desktop\minidriverspy\x64\Release\msclmd.exp
+  Generating code
+c:\users\hossein\desktop\minidriverspy\minidriverspy\minidriverspy.cpp(103): warning C4715: 'CardAcquireContext': not all control paths return a value
+  Finished generating code
+  All 94 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  minidriverspy.vcxproj -> C:\Users\Hossein\Desktop\minidriverspy\x64\Release\msclmd.dll
+  minidriverspy.vcxproj -> C:\Users\Hossein\Desktop\minidriverspy\x64\Release\msclmd.pdb (Full PDB)

@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  minidriverspy.cpp
+e:\minidriverspy\minidriverspy\minidriverspy.cpp(121): warning C4715: 'CardAcquireContext': not all control paths return a value
+     Creating library E:\minidriverspy\x64\Debug\msclmd.lib and object E:\minidriverspy\x64\Debug\msclmd.exp
+  minidriverspy.vcxproj -> E:\minidriverspy\x64\Debug\msclmd.dll
+  minidriverspy.vcxproj -> E:\minidriverspy\x64\Debug\msclmd.pdb (Full PDB)
